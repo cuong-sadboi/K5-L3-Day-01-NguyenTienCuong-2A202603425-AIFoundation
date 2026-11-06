@@ -1,8 +1,8 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
 
-- **MSSV 2A202603425:**
-- **Họ và tê Nguyễn Tiến Cườngn:**
+- **MSSV:** 2A202603425
+- **Họ và tên:**  Nguyễn Tiến Cường
 - **SEED** (in ở ô đầu notebook):9232
 
 ## 1. Bằng chứng
