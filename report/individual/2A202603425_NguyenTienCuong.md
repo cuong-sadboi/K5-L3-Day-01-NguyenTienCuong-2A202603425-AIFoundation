@@ -1,10 +1,9 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
-> Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
-- **MSSV:**
-- **Họ và tên:**
-- **SEED** (in ở ô đầu notebook):
+- **MSSV 2A202603425:**
+- **Họ và tê Nguyễn Tiến Cườngn:**
+- **SEED** (in ở ô đầu notebook):9232
 
 ## 1. Bằng chứng
 
@@ -17,6 +16,7 @@
 ## 2. Kết quả chính
 
 *Chép bảng so sánh cuối Phần 5 (F1 test, F1 SUB 40, p95 ms/tin, USD/1k tin) của chính bạn.*
+
 
 ## 3. Dự đoán và thực tế
 
